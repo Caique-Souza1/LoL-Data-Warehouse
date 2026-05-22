@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+.streamlit/
+
+dados/dim_elo.csv
+dados/dim_game.csv
+dados/dim_team.csv
+dados/fato_partida.csv
