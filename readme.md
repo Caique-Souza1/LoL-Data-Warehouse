@@ -79,8 +79,8 @@ A tabela fato foi modelada com granularidade por time em cada partida, ou seja:
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/Caique-Souza1/LoL-Data-Warehouse.git
+cd LoL-Data-Warehouse
 ```
 
 Crie e ative o ambiente virtual:
