@@ -1,6 +1,6 @@
 # Data Warehouse - League of Legends
 
-Projeto desenvolvido para a disciplina de Data Warehouse / OLAP da faculdade, utilizando dados de partidas ranqueadas do League of Legends.
+Projeto desenvolvido para a disciplina de Sistemas de Apoio a Decisão, utilizando dados de partidas ranqueadas do League of Legends.
 
 O objetivo do projeto foi realizar um processo completo de ETL com Python e Pandas, organizando os dados em um modelo dimensional (Star Schema) com tabelas fato e dimensões, além da criação de um dashboard analítico utilizando Streamlit.
 
